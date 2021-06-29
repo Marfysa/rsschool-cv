@@ -20,4 +20,9 @@ Become a FrontEnd developer and work in a stable, rapidly growing company.\
 * Virtualization Essential
 * SQL - basic level
 
+## WORK EXPERIENCE:
+---
+IT courses "RS School"
+
+
 
