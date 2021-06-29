@@ -24,5 +24,13 @@ Become a FrontEnd developer and work in a stable, rapidly growing company.\
 ---
 IT courses "RS School"
 
+## EDUCATION:
+---
+* 09.2010 - 06.2014 - Belarusian State Economic University(BSEU). Bachelor Degree in Accounting and Audit
+
+## LANGUAGES:
+* Russian - native
+* English - intermediate level
+
 
 
