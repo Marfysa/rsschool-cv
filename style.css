@@ -56,3 +56,7 @@ main {
     margin: auto;
     height: 530px;
 }
+.photo {
+    width:45%;
+    height: 35%;
+}
