@@ -15,7 +15,7 @@ aside {
     display: block;
     position: absolute;
     background-color:turquoise;
-    height: 600px;
+    height: 570px;
 }
 .container {
     margin-left: 400px;
@@ -27,18 +27,32 @@ aside {
     margin: 0 auto;
 }
 footer {
-    display: block;
-    margin-left: 600px;
-    margin-right: auto;
+    
+    display: flex;
     background-color: white;
+    margin:0;
+    padding: 0;
+    position: relative;
+    overflow: auto;
+    height: 40px;
+    
+    box-sizing: border-box;
+}
+.end {
+    margin: auto;
+    text-align: center;
 }
 
 .sidebar {
-  width: 20%;
+    margin: auto;
+    text-align: center;
+    width: 20%;
 }
 ul {
     list-style-type: none;
 }
 main {
     background-color: white;
+    margin: auto;
+    height: 530px;
 }
