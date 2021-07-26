@@ -1,2 +1,1 @@
-https://Marfysa.github.io/rsschool-cv/
-
+https://marfysa.github.io/rsschool-cv/
