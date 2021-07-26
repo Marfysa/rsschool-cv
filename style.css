@@ -8,14 +8,13 @@ body {
     display: block;
     background-color: whitesmoke;
     padding: 10px 20px 20px 10px;
-    max-width: 1440px;
-    height: 600px;
+    height: 610px;
 }
 aside {
     display: block;
     position: absolute;
     background-color:turquoise;
-    height: 570px;
+    height: 580px;
 }
 .container {
     margin-left: 400px;
@@ -26,17 +25,20 @@ aside {
     max-width: 1440px;
     margin: 0 auto;
 }
+div footer{
+    display: block;
+    margin: 0;
+    padding: 0;
+}
 footer {
-    
     display: flex;
     background-color: white;
-    margin:0;
     padding: 0;
     position: relative;
     overflow: auto;
     height: 40px;
-    
     box-sizing: border-box;
+
 }
 .end {
     margin: auto;
@@ -54,7 +56,7 @@ ul {
 main {
     background-color: white;
     margin: auto;
-    height: 530px;
+    height: 540px;
 }
 .photo {
     width:45%;
