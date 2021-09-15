@@ -14,13 +14,17 @@
 <body>
     <div class="container">
         <header>
-        
-            <figure>
+            <div class="wrapper">
+                 <div class="img">
                 <img src="../rsschool-cv/image/image.jpg" alt="My photo">
-            </figure>
-            <h1>Maria Kurakevich</h1>
+            </div>
+            <div class="header">
+                    <h1>Maria Kurakevich</h1>
+            </div>
+            </div>
         </header>
-        <aside>
+        <div class="center">
+            <aside>
             <div class="contacts">
                 <h4>Contacts</h4>
                 <ul>
@@ -42,12 +46,30 @@
                         <li>HTML - basic level</li>
                         <li>CSS - basic level</li>
               <li>JS - basic level</li>
+              <li>Powershell - basic level</li>
+              <li>Bash - basic level</li>
               <li>Git - basic level</li>
               <li>Networking Essential</li>
               <li>Virtualization Essential</li>
               <li>SQL - basic level</li>
                     </ul>
             
+            </section>
+            <section>
+                <pre>
+                    <code>
+                        toggle.addEventListener('click', (e) => {
+                            const html = document.querySelector('html')
+                            if(html.classList.contains('dark')) {
+                                html.classList.remove('dark')
+                                e.target.innerHTML = 'Change color'
+                            } else {
+                                html.classList.add('dark')
+                                e.target.innerHTML= 'Another back'
+                            }
+                        })
+                    </code>
+            </pre>
             </section>
             <section>
                 <h3>Work experience</h3>
@@ -68,6 +90,8 @@
                     </ul>
             </section>
         </main>
+        </div>
+        
         <footer>
             <a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" width="50" height="30" alt="logo"></a>  <span> 2021 </span> <a href="https://github.com/Marfysa">My Github</a>
         </footer>
